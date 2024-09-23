@@ -1,5 +1,5 @@
 # 🍞 O melhor Pão do Mundo!
-Este projeto é uma página web promocional para divulgar e vender pão artesanal. O objetivo é proporcionar uma experiência visual atraente e simplificada para o usuário, destacando a qualidade e o valor do produto.
+Este projeto é uma landing page criada para aplicar os conhecimentos aprendidos no curso de HTML da Sololearn. O objetivo é proporcionar uma experiência visual atraente e simplificada para o usuário, destacando a qualidade e o valor do produto.
 
 ## 🚀 Funcionalidades
 - Design Responsivo: A página está otimizada para diferentes resoluções de tela, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops.
